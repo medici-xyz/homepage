@@ -7,7 +7,7 @@ const Hero: React.FC<{}> = () => {
         NFTs are here, they're just not usable
       </h1>
       <h6 className="text-text-secondary text-center text-xl animate-reveal-from-bottom-delayed ">
-        Supporting NFT usability.
+        Let's change that
       </h6>
     </section>
   )

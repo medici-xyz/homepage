@@ -5,7 +5,7 @@ const Footer: React.FC<{}> = () => {
     <footer className="w-full flex align-center justify-end">
       <ul className="flex align-center justify-between w-28">
         <li>
-          <a href="https://twitter.com/">
+          <a href="https://twitter.com/medici_xyz">
             <svg
               width="30"
               height="30"
@@ -21,7 +21,7 @@ const Footer: React.FC<{}> = () => {
           </a>
         </li>
         <li>
-          <a href="https://google.com/">
+          <a href="https://github.com/medici-xyz">
             <svg
               width="48"
               height="48"
